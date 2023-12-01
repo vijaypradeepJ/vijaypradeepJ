@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijaypradeepJ
+- <h4>HI here vijay pradeep J👋</h4>
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Frontend developement
 - 💞️ I’m looking to collaborate on web developement projects
@@ -8,3 +8,4 @@
 vijaypradeepJ/vijaypradeepJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h4> </h4>
